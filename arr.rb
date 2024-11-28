@@ -22,7 +22,3 @@
 
 # puts "The array is #{array}"
 
-
-
-
-
